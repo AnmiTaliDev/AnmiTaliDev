@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📈 GitHub Stats
 
-![AnmiTaliDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmiTaliDev&show_icons=true&theme=radical)
+![AnmiTaliDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmiTaliDev&show_icons=true)
 
 
 ## 🌟 Top Projects (Or organizations)
