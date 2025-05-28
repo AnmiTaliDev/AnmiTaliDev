@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 
 ### Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ArchLinux](https://img.shields.io/badge/arch-2496ED?style=for-the-badge&logo=arch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
