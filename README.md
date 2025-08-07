@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🇰🇿 **Kazakhstan** • 💻 **Systems Development** • 🌐 **Translation** • 🚀 **Open Source** • 🧠 **Philosophy & Tech**
+🇰🇿 **Kazakhstan** • 💻 **Systems Development** • 🌐 **Translation** • 🚀 **Free SOftware & OpenSource** • 🧠 **Philosophy & Tech**
 
 *Exploring the intersection of technology, philosophy, and human communication*
 
@@ -41,6 +41,7 @@ Systems developer, translator, and thinker from Kazakhstan, dedicated to creatin
 
 ### Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/FreeBSD-FAA620?style=for-the-badge&logo=freebsd&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -76,8 +77,7 @@ Systems developer, translator, and thinker from Kazakhstan, dedicated to creatin
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmiTaliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmiTaliDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnmiTaliDev&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://github-readme-streak-stats-ebon-eight.vercel.app?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
