@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🇰🇿 **Kazakhstan** • 💻 **Systems Development** • 🌐 **Translation** • 🚀 **Free SOftware & OpenSource** • 🧠 **Philosophy & Tech**
+🇰🇿 **Kazakhstan** • 💻 **Systems Development** • 🌐 **Translation** • 🚀 **Free Software & OpenSource** • 🧠 **Philosophy & Tech**
 
 *Exploring the intersection of technology, philosophy, and human communication*
 
