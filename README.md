@@ -48,28 +48,6 @@ Systems developer, translator, and thinker from Kazakhstan, dedicated to creatin
 
 ---
 
-## 🌟 Featured Projects
-
-### 🐧 **NurOS Ecosystem**
-> *Building the future of Linux distributions*
-
-<div align="center">
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[NurOS](https://github.com/nuros-linux/)** | Custom Linux distribution focused on simplicity and performance | 🚧 Active Development |
-| **[Tulpar](https://github.com/nuros-linux/Tulpar)** | Core system architecture and package management | ⚡ Core Component |
-| **[Neoinit](https://github.com/nuros-linux/neoinit)** | Modern, lightweight init system | 🔄 In Progress |
-
-</div>
-
-### 🌐 **OpenSerfing Initiative**
-> *Democratizing access to open source tools*
-
-- **[OpenSerfing](https://github.com/openserfing/)** - Community-driven open source project hub
-
----
-
 ## 📊 GitHub Insights
 
 <div align="center">
