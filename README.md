@@ -26,4 +26,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnmiTaliDev&color=blueviolet&style=for-the-badge&label=Visitors)
 
+[![committers.top badge](https://user-badge.committers.top/kazakhstan/AnmiTaliDev.svg)](https://user-badge.committers.top/kazakhstan/AnmiTaliDev)
+
 </div>
