@@ -11,7 +11,7 @@
 <img height="180em" src="https://fdd-seven.vercel.app/api?username=AnmiTaliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://fdd-seven.vercel.app/api/top-langs/?username=AnmiTaliDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![GitHub Streak](https://github-readme-streak-stats-ebon-eight.vercel.app?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
