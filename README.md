@@ -1,9 +1,5 @@
 # 👋 Салем! I'm AnmiTaliDev (Ildar)
 
-
-🇰🇿 I am from **Kazakhstan**
-
-
 ## 🚀 About Me
 
 <div align="center">
@@ -13,6 +9,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
+
+![OSM Activity Heatmap](https://osmapi.anmitali.dev/osm/heatmap?username=AnmiTaliDev)
 
 </div>
 
