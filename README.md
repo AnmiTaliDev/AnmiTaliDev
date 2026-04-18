@@ -26,4 +26,5 @@
 
 [![committers.top badge](https://user-badge.committers.top/kazakhstan/AnmiTaliDev.svg)](https://user-badge.committers.top/kazakhstan/AnmiTaliDev)
 [![committers.top badge](https://user-badge.committers.top/kazakhstan_public/AnmiTaliDev.svg)](https://user-badge.committers.top/kazakhstan_public/AnmiTaliDev)
+[![committers.top badge](https://user-badge.committers.top/kazakhstan_private/USERNAME.svg)](https://user-badge.committers.top/kazakhstan_private/AnmiTalidev)
 </div>
