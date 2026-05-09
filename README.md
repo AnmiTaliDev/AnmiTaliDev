@@ -5,10 +5,10 @@
 <div align="center">
 
 <img height="180em" src="https://fdd-seven.vercel.app/api?username=AnmiTaliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://fdd-seven.vercel.app/api/top-langs/?username=AnmiTaliDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=false)](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=false)
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
+[![github-stats-card](https://stats-card.pages.dev/lang?user=AnmiTaliDev&theme=tokyonight&layout=compact)](https://github.com/KasRoudra/github-stats-card)
 
 ![OSM Activity Heatmap](https://osmapi.anmitali.dev/heatmap?username=AnmiTaliDev)
 
