@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=false)](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=false)
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=AnmiTaliDev&theme=tokyonight&layout=compact&sort=desc&minimum=0&max_lang=100&exclude_repo=morex)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=AnmiTaliDev&theme=tokyonight&layout=compact&sort=desc&minimum=0&max_lang=100&exclude_repo=morex)](https://kasroudra-stats-card.onrender.com/lang?user=AnmiTaliDev&theme=tokyonight&layout=compact&sort=desc&minimum=0&max_lang=100&exclude_repo=morex)
 
 ![OSM Activity Heatmap](https://osmapi.anmitali.dev/heatmap?username=AnmiTaliDev)
 
