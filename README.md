@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://fdd-seven.vercel.app/api?username=AnmiTaliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=AnmiTaliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=false)](https://streak-stats.demolab.com/?user=AnmiTaliDev&theme=tokyonight&hide_border=true&short_numbers=false)
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
