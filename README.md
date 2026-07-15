@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnmiTaliDev&theme=tokyonight&no-frame=true&margin-w=15&column=7)
+![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=AnmiTaliDev&theme=tokyonight&no-frame=true&margin-w=15&column=7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnmiTaliDev&color=blueviolet&style=for-the-badge&label=Visitors)
 
