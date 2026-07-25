@@ -10,7 +10,7 @@
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=AnmiTaliDev&theme=tokyo-night&hide_border=true&area=true)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=AnmiTaliDev&theme=tokyonight&layout=compact&sort=desc&minimum=0&max_lang=100&exclude_repo=morex)](https://kasroudra-stats-card.onrender.com/lang?user=AnmiTaliDev&theme=tokyonight&layout=compact&sort=desc&minimum=0&max_lang=100&exclude_repo=morex)
 
-![OSM Activity Heatmap](https://osmapi.anmitali.dev/heatmap?username=AnmiTaliDev)
+![OSM Activity Heatmap]([https://osmapi.anmitali.dev/heatmap?username=AnmiTaliDev](https://osmapi.anmitali.dev/heatmap?username=AnmiTaliDev&palette=blue&theme=dark&hide_title=true))
 
 </div>
 
